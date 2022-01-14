@@ -1,0 +1,112 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+main{
+    width: 100vw;
+    height: auto;
+    padding: 4vh 15vh;
+}
+
+.h5_title_main{
+    font-size: 4rem;
+    margin-left: 1vw;
+    margin-bottom: 5vh;
+}
+
+#cards_contain{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-around;
+    font-size: 1.9rem;
+}
+
+.cards{
+    border: 1px solid rgb(185, 185, 185);
+    box-shadow: 0 0 0.2rem rgb(185, 185, 185);
+    border-radius: 5px;
+    width: 11vw;
+    height: 45vh;
+}
+
+.imgs{
+    width: 100%;
+    height: 100%;
+    border-radius: 4px;
+}
+
+.card_img{
+    width: 100%;
+    height: 55%;
+}
+
+.card_data{
+    width: 100%;
+    height: 45%;
+    padding: 10px 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    font-size: 1.9rem;
+}
+
+.card_data button{
+    width: 6vw;
+    height: 5vh;
+    border-radius: 0.5rem;
+    background-color: rgb(58, 58, 58);
+    color: white;
+    border: none;
+    cursor: pointer; 
+}
+
+footer{
+    width: 83%;
+    margin: 0 auto;
+    height: auto;
+    padding: 4vh 0;
+    font-size: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+tr, th, td{
+    padding: 0.9vh 3.5vw;
+    text-align: center;
+}   
+
+footer table thead {
+    font-size: 3rem;
+    text-shadow: 0 0.5rem 0.3rem black;
+}
+
+.btn-danger{
+    width: 6vw;
+    height: 5vh;
+    border-radius: 0.5rem;
+    background-color: rgb(138, 8, 8);
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.btn-info{
+    width: 6vw;
+    height: 5vh;
+    border-radius: 0.5rem;
+    background-color: rgb(19, 104, 30);
+    color: white;
+    border: none;
+    cursor: pointer;
+}

@@ -1,0 +1,38 @@
+[
+    {
+      "precio": 349000,
+      "id": 1,
+      "title": "Nike Cortez",
+      "thumbnailUrl": "https://static.dafiti.com.co/p/nike-2409-8547341-1-product.jpg"
+    },
+    {
+      "precio": 249000,
+      "id": 2,
+      "title": "Nike Capsula",
+      "thumbnailUrl": "https://colstore.com.co/wp-content/uploads/2018/06/IMG_E00051.jpg"
+    },
+    {
+      "precio": 450000,
+      "id": 3,
+      "title": "Jordan Nitro",
+      "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9AwlwbpSSTGhDyrOH6ZDanaheLtmDWJjxpw&usqp=CAU"
+    },
+    {
+      "precio": 490000,
+      "id": 4,
+      "title": "Jordan Grey",
+      "thumbnailUrl": "https://i.pinimg.com/originals/5a/55/d0/5a55d053e7a7c8f4aa06fa8030b99b25.jpg"
+    },
+    {
+      "precio": 320000,
+      "id": 5,
+      "title": "Puma Arcoiris",
+      "thumbnailUrl": "https://www.eluniversal.com.mx/sites/default/files/2021/07/08/tenis-rugrats.jpg"
+    },
+    {
+      "precio": 310000,
+      "id": 6,
+      "title": "Arroz",
+      "thumbnailUrl": "https://falabella.scene7.com/is/image/FalabellaCO/4321059_1?wid=800&hei=800&qlt=70"
+    }
+  ]
